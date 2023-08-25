@@ -1,5 +1,6 @@
 import { View, StatusBar, SafeAreaView } from "react-native";
 import Carrinho from "./src/pages/Carrinho";
+import React from "react";
 import { useFonts,
 Montserrat_400Regular,
 Montserrat_700Bold,
